@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BillionOre.iml" filepath="$PROJECT_DIR$/BillionOre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BillionOre_api.iml" filepath="$PROJECT_DIR$/.idea/modules/BillionOre_api.iml" group="BillionOre" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BillionOre_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BillionOre_main.iml" group="BillionOre" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BillionOre_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BillionOre_test.iml" group="BillionOre" />
+    </modules>
+  </component>
+</project>

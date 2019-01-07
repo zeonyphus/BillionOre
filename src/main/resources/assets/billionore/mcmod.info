@@ -1,0 +1,16 @@
+[
+{
+  "modid": "billionore",
+  "name": "BillionOre",
+  "description": "A mod that generates a lot of new ores that are far more accurate to what we find on the earth.  Really just a fun mod",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Xen"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
